@@ -2,7 +2,7 @@ typeScript
   export default function Home() {
   return (
     <main>
-      <h1>Hello World</h1>
+      <h1>App is working</h1>
     </main>
   )
 }
